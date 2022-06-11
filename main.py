@@ -2,7 +2,7 @@
 import os, random
 
 # update this to be your movie directory
-movieDir ='D:\Share\Movies'
+movieDir ='D:\Torrents\Movies'
 # might need to change this to "\\THEBLACKPEARL\Share\Movies"
 
 # name of file that stores your movies
